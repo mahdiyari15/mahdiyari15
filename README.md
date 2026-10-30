@@ -5,9 +5,18 @@
 </h1>
 
 <p align="center">
-  Computer Engineering student at the <strong>University of Tehran</strong>, working on
-  <strong>vision-language models</strong>, <strong>LLM reasoning</strong> and <strong>reinforcement learning</strong>.
+  Computer Engineering student at the <strong>University of Tehran</strong>.<br>
+  I work on <strong>reliable machine learning</strong> for models that see and act:
+  <strong>vision-language models</strong>, <strong>reinforcement learning</strong>,
+  and <strong>honest evaluation</strong> under label scarcity, distribution shift and data leakage.
 </p>
+
+### 🔬 Current research
+
+- **Report-guided vision-language survival prediction** (Dr. M. Moshiri): an LLM reads each patient's pathology report and the extracted concepts guide a whole-slide-image survival model (VLSA, CONCH) on TCGA. Includes a provenance-safe extraction pipeline, a leakage audit of the public checkpoint, a power analysis and a pre-registered external replication. *(code private until publication)*
+- **Label-free anomaly detection in stream-sediment geochemistry** (Dr. B. Bahrak): clustering, five detectors, element prediction under spatially blocked validation, and a synthetic-injection benchmark; a one-sided residual score beats robust Mahalanobis and Isolation Forest. Draft paper in preparation. *(code private until publication)*
+- **Systematic review** of multimodal models that combine histopathology with other patient data for cancer prognosis (protocol on OSF).
+- **Semantic forwarding in Named Data Networking**: paper under review at IEEE IST 2026.
 
 ---
 
@@ -54,8 +63,8 @@
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/LLM_%C2%B7_Geoscience-2E7D32?style=for-the-badge&logo=openai&logoColor=white"><br>
-      <sub><b>LLM / VLM reasoning on geological &<br>satellite data for mineral exploration<br>(in progress)</b></sub>
+      <img src="https://img.shields.io/badge/Geochemistry_%C2%B7_Anomaly_Detection-2E7D32?style=for-the-badge&logo=scikitlearn&logoColor=white"><br>
+      <sub><b>Label-free anomaly detection<br>for mineral exploration<br>(paper in preparation)</b></sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/mahdiyari15/Data-science-projects">
